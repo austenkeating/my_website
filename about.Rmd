@@ -5,6 +5,9 @@ links:
     url: "www.linkedin.com/in/austenkeating"
   - label: GitHub
     url: "https://github.com/austenkeating"
+output:
+  postcards:::jolla
+site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
