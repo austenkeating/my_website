@@ -1,7 +1,7 @@
 name: "my_website"
-title: "My Website"
+title: "Austen Keating"
 description: |
-  My Website
+  Welcome to my personal website.
 output_dir: "_site"
 navbar:
   right:

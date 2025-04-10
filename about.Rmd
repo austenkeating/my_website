@@ -1,7 +1,10 @@
 ---
 title: "About this site"
-description: |
-  Some additional details about the website
+links: 
+  - label: LinkedIn
+    url: "www.linkedin.com/in/austenkeating"
+  - label: GitHub
+    url: "https://github.com/austenkeating"
 ---
 
 ```{r setup, include=FALSE}
