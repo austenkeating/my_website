@@ -1,25 +1,25 @@
 ---
-title: "Alicia"
-subtitle: "Data Scientist"
+title: "Austen Keating"
+subtitle: "Data Generalist"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
 image: profile.jpg
 about: # https://quarto.org/docs/websites/website-about.html
-  template: jolla
+  template: trestles
   links:
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/austenkeating
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/austenkeating/
 ---
 
 A little bit about me and my life.
 
 ## Education
 
-University of XYZ, City \| Location \| Sept 20XX - June 20XX
+Bachelor of Arts (History) from Monash University and Honours Degree in Psychological Sciences from University of Melbourne.
 
 ## Experience
 
-Workplace \| Job title \| April 20XX - present
+Currently working in Public Health as a Population Health Analyst.
